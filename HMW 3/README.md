@@ -1,5 +1,5 @@
 ## Problem
-
+Measure light level of an area and display it's value. Give a user an option, to stop device from updating a display value. Everything should work asynchronously.
 
 ## Usage
 
@@ -17,6 +17,7 @@ Everything is saved in a form of a struct:
 - The delay will be converted to ticks, which will be used in timer CompareA register (OCR1A).
 
 ## Future improvements
+- Either add 
 
 ## Components
 
@@ -33,5 +34,6 @@ Everything is saved in a form of a struct:
 
 ## Wiring
 <img width="1089" height="785" alt="Wiring" src="https://github.com/user-attachments/assets/09bc5471-94ec-4b0e-86e8-06a4f9be9bfd" />
+
 ## Demo
 

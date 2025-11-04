@@ -32,6 +32,7 @@ Everything is saved in a form of a struct:
 | Resistor 10kR | 2 |
 
 ## Wiring
+![Wiring](https://github.com/user-attachments/assets/0842212f-7453-4d05-a9cd-ada089bc5597)
 
 ## Demo
 

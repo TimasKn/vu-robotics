@@ -1,8 +1,9 @@
 ## Problem
-Measure light level of an area and display it's value. Give a user an option, to stop device from updating a display value. Everything should work asynchronously.
+Measure light level of an area with two sensors and display their values in LCD diplay. Give a user an option, to change which sensors (or both) value to display. Everything should work asynchronously.
 
 ## Usage
-
+- Press a button, to change which light level value (Average, Left sensor, Right sensor) is displayed;
+- Turn the potentiometer to change the contrast of LCD display;
 
 ## EEPROM
 Everything is saved in a form of a struct:
@@ -17,7 +18,8 @@ Everything is saved in a form of a struct:
 - The delay will be converted to ticks, which will be used in timer CompareA register (OCR1A).
 
 ## Future improvements
-- Either add 
+- Add a possibility to 'freeze' device (stop reading sensor values) either with another input component or implementing several button presses;
+- Add some sort of indicator, that device is frozen; 
 
 ## Components
 

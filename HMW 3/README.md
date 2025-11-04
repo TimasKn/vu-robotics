@@ -33,7 +33,8 @@ Everything is saved in a form of a struct:
 | Resistor 10kR | 2 |
 
 ## Wiring
-<img width="1089" height="785" alt="Wiring" src="https://github.com/user-attachments/assets/09bc5471-94ec-4b0e-86e8-06a4f9be9bfd" />
+![Wiring](https://github.com/user-attachments/assets/e5b9695b-f466-4d6b-84ec-6c1cc566c7c6)
+
 
 ## Demo
 

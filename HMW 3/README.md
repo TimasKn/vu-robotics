@@ -37,6 +37,5 @@ Everything is saved in a form of a struct:
 ## Wiring
 ![Wiring](https://github.com/user-attachments/assets/e5b9695b-f466-4d6b-84ec-6c1cc566c7c6)
 
-
 ## Demo
 

@@ -38,4 +38,7 @@ Everything is saved in a form of a struct:
 ![Wiring](https://github.com/user-attachments/assets/e5b9695b-f466-4d6b-84ec-6c1cc566c7c6)
 
 ## Demo
+https://github.com/user-attachments/assets/fa948013-3487-4e95-a8bd-1a5f4ca10efe
+
+
 
